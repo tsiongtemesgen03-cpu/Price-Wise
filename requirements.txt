@@ -2,5 +2,6 @@ pandas
 numpy
 scikit-learn
 openai
+matplotlib
 tqdm
 python-dotenv
