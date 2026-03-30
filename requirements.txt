@@ -3,5 +3,6 @@ numpy
 scikit-learn
 openai
 matplotlib
+plotly
 tqdm
 python-dotenv
