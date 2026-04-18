@@ -1,11 +1,2 @@
-flask
-pandas
-numpy
-matplotlib
-scikit-learn
-anthropic
-requests
-folium
-python-dotenv
+Flask
 gunicorn
-torch
